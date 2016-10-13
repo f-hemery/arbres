@@ -1,0 +1,14 @@
+{
+  "name": "arbre",
+  "version": "1.0.0",
+  "description": "Accès info sur les arbres",
+  "main": [
+    "dist/arbre.js"
+  ],
+  "authors": [
+    "Fred Hémery <fred.hemery@univ-artois.fr>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/f-hemery/arbres",
+  "private": false
+}
